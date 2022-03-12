@@ -11,8 +11,6 @@ import org.openqa.selenium.support.PageFactory;
 public class AccountPage {
     public AccountPage(){ PageFactory.initElements(Driver.get(), this); }
 
-    //WebDriver driver=Driver.get();
-
     @FindBy(xpath="//div[@class='account__welcome text__center font-size--hero']")
     public WebElement profileWelcomingText;
 
