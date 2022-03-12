@@ -1,3 +1,4 @@
+#@wip
 Feature: Apply a voucher
 
   Scenario Outline: A user should be able to apply the voucher code for discount "<product>"

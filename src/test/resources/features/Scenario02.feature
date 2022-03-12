@@ -1,3 +1,4 @@
+#@wip
 Feature: Modify user information
 
   Scenario Outline: A user should be able to modify "<name>" "<surname>"
