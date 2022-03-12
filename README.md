@@ -16,7 +16,7 @@ Notes: To run all Scenarios in Transactions.feature, use `@Regression` tag in th
   > Click "verify"
 
 #### System Requirements:
-- Java 8+ SDK
+- Java 12+ SDK
 
 #### Recommended Plugins for IDE
 1 - Cucumber for Java from JetBrains\
